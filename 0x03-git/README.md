@@ -1,1 +1,1 @@
-ALX-zero_day has made me learn
+ALX-zero_day repository is about the 0x03.Git project
